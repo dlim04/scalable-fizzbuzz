@@ -1,4 +1,4 @@
-# Scalable-FizzBuzz
+# scalable-fizzBuzz
 The repository for a scalable version of the children's game FizzBuzz
 
 This was made at 5:30AM inspired by Tom Scott's youtube video:
